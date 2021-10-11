@@ -1,6 +1,6 @@
 # git-demoal
 
-- line 1
+- line 1 - ms
 - line 2 - ms, f2
 - line 3
 - line 4
