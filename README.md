@@ -15,3 +15,4 @@
 - feature 3
 - feature 3.1
 - feature 3.2
+- in feature1
